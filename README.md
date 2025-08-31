@@ -3,7 +3,13 @@
 &nbsp;
 
 ## Intro
+# Quantitative Trading Strategies 🚀
 
+👨‍💻 Maintained & Customized by **Sunny Rajpoot**  
+📊 Equity, Futures & Options Trader | 🤖 Algorithmic Trader | 🧠 Machine Learning | 📐 Financial Mathematics  
+🚀 Co-Founder @Finloom Pvt. Ltd. | 🎓 Pre-Final (Int. M.Tech) @NIT Rourkela  
+
+---
 &nbsp;
 
 > We’re right 50.75 percent of the time... but we’re 100 percent right 50.75 percent of the time, you can make billions that way. <br><br>
@@ -301,5 +307,16 @@ A sibling of shooting star is called hammer which is effectively a vertical flip
 ![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/shooting%20star%20positions.png)
 
 <br>
+
+---
+
+## 👨‍💻 About Me
+I am **Sunny Rajpoot**, passionate about **Quantitative Research, Algorithmic Trading, and Financial Mathematics**.  
+I actively trade **Equities, Futures, and Options**, and develop systematic strategies using **Python and Machine Learning**.  
+
+📧 Email: sunnyrajpoot21032002@gmail.com  
+📞 Phone: +91 7891019008  
+🌐 GitHub: [sun123nny](https://github.com/sun123nny)  
+
 
 #### STAY TUNED
